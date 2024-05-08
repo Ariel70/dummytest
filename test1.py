@@ -1,1 +1,1 @@
-print("LOL")
+print("LOddL")
